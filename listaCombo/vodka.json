@@ -1,0 +1,89 @@
+{
+  "listaVodka": [
+    {
+      "tipo": "ABSOLUT SABOR",
+    
+      "imggarrafa": "https://m.media-amazon.com/images/I/71bpGOo9wGL.jpg",
+      "quantgarrafa": "1x ",
+      "garrafa": "VODKA ABSOLUT WATERMELON 1L",
+    
+      "imgenergetico": "https://static.paodeacucar.com/img/uploads/1/50/24901050.jpg",
+      "quantenergetico": "6x ",
+      "energetico": "ENERGÉTICO RED BULL SABOR 250ML",
+    
+      "imggelo": "https://delivery.blacktiger.com.br/wp-content/uploads/2023/03/gelodemelanciadeliveryguarulhos-2.png",
+      "quantgelo": "6x ",
+      "gelo": "GELO DE SABOR 200ML",
+    
+      "preco": "150,00"
+    },
+    {
+      "tipo": "ABSOLUT",
+
+      "imggarrafa": "https://images.tcdn.com.br/img/img_prod/686651/vodka_absolut_1l_14084461_1_e79c65d9e15ffe1e49f060f3acd516cf.jpg",
+      "quantgarrafa": "1x ",
+      "garrafa": "VODKA ABSOLUT 1L",
+
+      "imgenergetico": "https://static.paodeacucar.com/img/uploads/1/230/24804230.jpg",
+      "quantenergetico": "6x ",
+      "energetico": "ENERGÉTICO RED BULL SABOR 250ML",
+
+      "imggelo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB_yoyG-ot3vagLUhOM2L9d3bjQjTiDDHvT7S1ynj-H-wQ-uHl",
+      "quantgelo": "6x ",
+      "gelo": "GELO DE SABOR 200ML",
+
+      "preco": "145,00"
+    },
+    {
+      "tipo": "SMIRNOFF",
+
+      "imggarrafa": "https://images.tcdn.com.br/img/img_prod/1161470/vodka_smirnoff_red_998_ml_2093_1_dede92e16b127675e5dd6589382f0fbe.jpeg",
+      "quantgarrafa": "1x ",
+      "garrafa": "VODKA SMIRNOFF 998ML",
+
+      "imgenergetico": "https://diawine.agilecdn.com.br/14967_1.jpg",
+      "quantenergetico": "6x ",
+      "energetico": "ENERGÉTICO RED BULL TRADICIONAL 250ML",
+      
+      "imggelo": "https://i0.wp.com/gobebidas.com.br/wp-content/uploads/2020/05/OU0005-1.png?fit=512%2C512&ssl=1",
+      "quantgelo": "6x ",
+      "gelo": "GELO DE COCO 200ML",
+
+      "preco": "100,00"
+    },
+    {
+      "tipo": "ASKOV SABOR",
+
+      "imggarrafa": "https://d3gdr9n5lqb5z7.cloudfront.net/fotos/2624_big.jpg",
+      "quantgarrafa": "1x ",
+      "garrafa": "VODKA ASKOV FRUTAS VERMELHAS 900ML",
+
+      "imgenergetico": "https://static.paodeacucar.com/img/uploads/1/50/24901050.jpg",
+      "quantenergetico": "6x ",
+      "energetico": "ENERGÉTICO RED BULL SABOR 250ML",
+
+      "imggelo": "https://delivery.blacktiger.com.br/wp-content/uploads/2023/03/gelodemelanciadeliveryguarulhos-2.png",
+      "quantgelo": "6x ",
+      "gelo": "GELO DE SABOR 200ML",
+
+      "preco": "70,00"
+    },
+    {
+      "tipo": "ASKOV",
+
+      "imggarrafa": "https://apoioentrega.vteximg.com.br/arquivos/ids/525858/https---repo-outsystems.png?v=638279246323200000",
+      "quantgarrafa": "1x ",
+      "garrafa": "VODKA ASKOV 900ML",
+
+      "imgenergetico": "https://static.paodeacucar.com/img/uploads/1/230/24804230.jpg",
+      "quantenergetico": "6x ",
+      "energetico": "ENERGÉTICO RED BULL SABOR 250ML",
+
+      "imggelo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB_yoyG-ot3vagLUhOM2L9d3bjQjTiDDHvT7S1ynj-H-wQ-uHl",
+      "quantgelo": "6x ",
+      "gelo": "GELO DE SABOR 200ML",
+
+      "preco": "70,00"
+    }
+  ]
+}

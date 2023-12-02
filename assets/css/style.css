@@ -1,0 +1,242 @@
+@charset "UTF-8";
+
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+body {
+  font-family: sans-serif;
+  background-image: url('imagem/adega-brothers-drinks.jpeg');
+  background-position: center;
+  background-size: cover;
+  height: 100vh;
+  width: 100%;
+}
+
+body h1 {
+  color: white;
+  padding-top: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 22px;
+  text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.735);
+  margin: 10px;
+}
+
+nav {
+  max-width: 400px;
+  height: 100%;
+  margin: auto;
+  width: auto;
+}
+
+.buscar {
+  flex-flow: column;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  padding: 0px 10px 0px 10px;
+  text-align: center;
+}
+
+.doses {
+  background-color: white;
+  color: black;
+  font-weight: bold;
+  text-decoration: none;
+  padding: 10px;
+  border-radius: 10px;
+  font-size: 14px;
+}
+
+.categorias {
+  padding: 10px;
+  border-radius: 10px;
+  font-weight: bold;
+  border-radius: 10px;
+  font-size: 14px;
+}
+
+.listacategoria {
+  background-color: #ddd;
+  display: none;
+  padding: 10px;
+  margin: 0;
+  border-radius: 5px;
+  text-align: center;
+  position: absolute;
+  box-shadow: 5px 2px 2px rgba(0, 0, 0, 0.282);
+  z-index: 1;
+}
+
+.listacategoria button {
+  background-color:gray;
+  color: white;
+  font-size: 14px;
+  padding: 5px;
+  margin: 4px;
+  border-radius: 5px;
+}
+
+input {
+  display: flex;
+  width: 95%;
+  height: 50px;
+  padding-left: 20px;
+  font-size: 20px;
+  border: 1px solid #ddd;
+  margin: 15px 0px 15px 0px;
+  border-radius: 5px;
+}
+
+#listaProdutos {
+  display: none;
+  width: 95%;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  position: absolute;
+  top: 108px;
+}
+
+#listaProdutos li {
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+  font-size: 18px;
+  color: black;
+  border: 1px solid #ddd;
+  background: white;
+  padding: 10px 20px 10px 5px;
+  margin: auto;
+  border-radius: 3px;
+}
+
+#listaProdutos li a {
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+  font-size: 13px;
+  color: black;
+  background: transparent;
+}
+
+#listaProdutos li p {
+  display: contents;
+  flex-direction: column;
+  font-size: 15px;
+}
+
+#listaProdutos li a img {
+  width: 80px;
+  height: 80px;
+}
+
+.item-name {
+  text-align: left;
+  margin-left: 15px;
+  min-width: 180px;
+  max-width: 180px;
+}
+
+h1,
+p {
+  margin-left: 5%;
+}
+
+.disponivel {
+  font-size: 14px;
+}
+
+#listaGin, #listaWhisky, #listaVodka {
+  display: none;
+  width: 95%;
+  list-style-type: none;
+  margin: 0;
+  padding: 4px 0px 0px 0px;
+  position: absolute;
+}
+
+#listaGin li, #listaWhisky li, #listaVodka li {
+  display: block flex;
+  align-items: center;
+  text-decoration: none;
+  font-size: 18px;
+  color: black;
+  border: 1px solid #ddd;
+  background: white;
+  padding: 10px 20px 10px 5px;
+  margin: auto;
+  border-radius: 3px;
+}
+
+#listaGin li a, #listaWhisky li a, #listaVodka li a {
+  align-items: center;
+  justify-content: center;
+  text-decoration: none;
+  font-size: 13px;
+  color: black;
+  background: transparent;
+}
+
+#listaGin li p, #listaWhisky li p, #listaVodka li p {
+  display: contents;
+  flex-direction: column;
+  font-size: 15px;
+}
+
+#listaGin li a img, #listaWhisky li a img, #listaVodka li a img {
+  width: 70px;
+  height: 70px;
+  padding: 5px;
+}
+
+#listaGin li a div , #listaWhisky li a div , #listaVodka li a div {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.gin {
+  padding: 10px;
+  font-weight: bold;
+  border-radius: 10px;
+  font-size: 14px;
+}
+
+.whisky {
+  padding: 10px;
+  font-weight: bold;
+  border-radius: 10px;
+  font-size: 14px;
+}
+
+.vodka {
+  padding: 10px;
+  font-weight: bold;
+  border-radius: 10px;
+  font-size: 14px;
+}
+
+.paginas {
+  padding: 10px;
+  background-color: white;
+  color: black;
+  font-weight: bold;
+  font-size: 14px;
+  border-radius: 10px;
+  text-decoration: none;
+}
+
+.tipo {
+  background-color: gray;
+  color: white;
+  padding: 5px;
+  margin: 0px;
+}
+
+.combo {
+  margin-bottom: 20px;
+}
