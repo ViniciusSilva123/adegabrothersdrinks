@@ -293,8 +293,6 @@
       "disponivel": "disponivel"
     },
     {
-      "mysql": "mysql",
-      
       "nome": "CAIXA CERVEJA ORIGINAL LATA 269ML",
       "img": "https://samsclub.vtexassets.com/arquivos/ids/174820-800-auto?v=637963394426200000&width=800&height=auto&aspect=true",
       "preco": "25,50",
@@ -321,7 +319,7 @@
 
     {
       "nome": "CERVEJA BUDWEISER LONG 330ML",
-      "img": "https://carrefourbrfood.vtexassets.com/arquivos/ids/212569/5513286_1.jpg?v=637272515437270000",
+      "img": "https://loja.srfilet.com.br/cdn/shop/products/budw_700x700.jpg?v=1654611269",
       "preco": "5,50",
       "disponivel": "disponivel"
     },
