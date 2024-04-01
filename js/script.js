@@ -246,17 +246,19 @@ function scrollToCategoria(categoriaId) {
   barra.value = ""; // Limpa o conteúdo do elemento com o ID "barraPesquisa"
   barra.blur(); // Remove o foco do campo de pesquisa para ocultar o teclado virtual
 
-  let lista = document.getElementById("listaProdutos")
-  lista.style.display = "none";
+  setTimeout(function() {
+    let lista = document.getElementById("listaProdutos")
+    lista.style.display = "none";
 
-  var categoria = document.getElementById(categoriaId);
+    var categoria = document.getElementById(categoriaId);
 
-  const offset = window.innerHeight / 2 - categoria.clientHeight / 2;
+    const offset = window.innerHeight / 2 - categoria.clientHeight / 2;
 
-  window.scrollTo({
-    top: categoria.offsetTop - offset,
-    behavior: "smooth"
-  });
+    window.scrollTo({
+      top: categoria.offsetTop - offset,
+      behavior: "smooth"
+    });
+  }, 1000); // 1000 milliseconds = 1 segundo
 }
 
 

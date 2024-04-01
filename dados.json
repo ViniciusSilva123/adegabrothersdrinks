@@ -141,7 +141,7 @@
       {
         "nome": "CERVEJA SPATEN LATA 269ML",
         "img": "CERVEJA SPATEN LATA 269ML",
-        "preco": "3,00",
+        "preco": "3,50",
         "disponivel": "disponivel"
       },
       {
@@ -156,13 +156,6 @@
         "preco": "4,00",
         "disponivel": "disponivel"
       },
-      {
-        "nome": "CERVEJA SKOL LATÃO 550ML",
-        "img": "CERVEJA SKOL LATÃO 550ML",
-        "preco": "6,00",
-        "disponivel": "indisponivel"
-      },
-  
       {
         "nome": "CAIXA CERVEJA AMSTEL LATA 269ML",
         "img": "CAIXA CERVEJA AMSTEL LATA 269ML",
