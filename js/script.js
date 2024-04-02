@@ -258,7 +258,7 @@ function scrollToCategoria(categoriaId) {
       top: categoria.offsetTop - offset,
       behavior: "smooth"
     });
-  }, 1000); // 1000 milliseconds = 1 segundo
+  }, 500); // 1000 milliseconds = 1 segundo
 }
 
 
