@@ -246,7 +246,7 @@ function scrollToCategoria(categoriaId) {
   barra.value = ""; // Limpa o conteúdo do elemento com o ID "barraPesquisa"
   barra.blur(); // Remove o foco do campo de pesquisa para ocultar o teclado virtual
 
-  setTimeout(function() {
+  setTimeout(function () {
     let lista = document.getElementById("listaProdutos")
     lista.style.display = "none";
 
