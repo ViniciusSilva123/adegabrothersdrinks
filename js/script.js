@@ -19,20 +19,20 @@ paracima.addEventListener("click", () => {
 });
 
 
-/*
-pag combo
+
+
 // Seleciona o botão
 var combos = document.getElementById('combos');
 
 function pag1() {
 
   // Redireciona para a nova página desejada
-  window.location.href = 'combos.html'; // Substitua 'nova_pagina.html' pelo caminho da sua nova página
+  window.location.href = 'combos/index.html'; // Substitua 'nova_pagina.html' pelo caminho da sua nova página
 }
 
 // Adiciona um ouvinte de evento para o clique no botão
 combos.addEventListener('click', pag1);
-*/
+
 
 /////////////////////////////////////
 

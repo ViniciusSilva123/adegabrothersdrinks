@@ -1,0 +1,20 @@
+{
+    "categorias": [
+        {
+            "categoria": "TUDO",
+            "categoria1": "."
+        },
+        {
+            "categoria": "WHISKY ",
+            "categoria1": "WHISKY "
+        },
+        {
+            "categoria": "GIN ",
+            "categoria1": "GIN "
+        },
+        {
+            "categoria": "VODKA ",
+            "categoria1": "VODKA "
+        }
+    ]
+}
