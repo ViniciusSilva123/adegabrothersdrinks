@@ -113,6 +113,11 @@ html {
     #cabecalho #titulo1 p {
         font-size: 18px
     }
+
+    #principal #listaCombos #item1 #produto {
+        width: 200px;
+        font-size: 12px;
+    }
 }
 
 @media (max-width: 370px) {
@@ -376,7 +381,7 @@ html {
 
 @media (max-width: 550px) {
     #principal #listaCombos #divimagem a img {
-        width: 80%;
+        width: 90%;
     }
 }
 
@@ -393,7 +398,7 @@ html {
 }
 
 #principal #listaCombos h1 {
-    font-size: 30px;
+    font-size: 25px;
 }
 
 #principal #listaCombos #qual {
@@ -421,6 +426,12 @@ html {
     width: 200px;
 }
 
+@media (max-width: 450px) {
+    #principal #listaCombos #item1 #produto {
+        width: 200px;
+        font-size: 12px;
+    }
+}
 
 #principal #listaCombos img {
     width: 200px;

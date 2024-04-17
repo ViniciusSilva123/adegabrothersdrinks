@@ -130,6 +130,7 @@
 }
 
 #navegacao .botao {
+    background-color: white;
     margin: 2px;
     padding: 10px;
     border-radius: 10px;
@@ -327,7 +328,7 @@
 
 @media (max-width: 950px) {
     #principal #divimagem img {
-        width: 80%
+        width: 90%
     }
 }
 
@@ -376,7 +377,6 @@
 
 #principal .produto {
     display: flex;
-    font-weight: 700;
     padding: 10px;
     flex-direction: column;
     text-align: center
