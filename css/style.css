@@ -378,6 +378,7 @@
 #principal .produto {
     display: flex;
     padding: 10px;
+    font-weight: bold;
     flex-direction: column;
     text-align: center
 }
