@@ -151,6 +151,12 @@
       "disponivel": "disponivel"
     },
     {
+      "nome": "CERVEJA BRAHMA D.M. LATA 269ML",
+      "img": "CERVEJA BRAHMA D.M. LATA 269ML",
+      "preco": "3,50",
+      "disponivel": "disponivel"
+    },
+    {
       "nome": "CERVEJA BRAHMA D.M. LATA 350ML",
       "img": "CERVEJA BRAHMA D.M. LATA 350ML",
       "preco": "4,00",
@@ -183,7 +189,7 @@
     {
       "nome": "CAIXA CERVEJA ITAIPAVA LATA 269ML",
       "img": "CAIXA CERVEJA ITAIPAVA LATA 269ML",
-      "preco": "25,00",
+      "preco": "26,00",
       "disponivel": "disponivel"
     },
     {
@@ -208,6 +214,12 @@
       "nome": "CAIXA CERVEJA STELLA ARTOIS LATA 269ML",
       "img": "CAIXA CERVEJA STELLA ARTOIS LATA 269ML",
       "preco": "30,00",
+      "disponivel": "disponivel"
+    },
+    {
+      "nome": "CAIXA CERVEJA BRAHMA D.M. LATA 269ML",
+      "img": "CAIXA CERVEJA BRAHMA D.M. LATA 269ML",
+      "preco": "37,50",
       "disponivel": "disponivel"
     },
     {
