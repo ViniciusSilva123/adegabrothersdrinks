@@ -123,8 +123,6 @@ fetch("dados.json").then((response) => {
                         <img src="imagens/${produto.img}.png" />
                         <span id="nomeProduto">${produto.nome}.</span>
                     </a>
-                    <p>R$${produto.preco}</p>
-                    <p id="disponivel">${produto.disponivel}</p>
                 </li>
             `;
     });
@@ -226,12 +224,6 @@ fetch("dados.json").then((response) => {
             <div class="info">
               <div class="nome">
                 <span>${produto.nome}.</span>
-              </div>
-              <div class="preco">
-                <p>R$${produto.preco}</p>
-              </div>
-              <div class="disponibilidade">
-                <p>${produto.disponivel}</p>
               </div>
             </div>
           </a>

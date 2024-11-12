@@ -101,8 +101,7 @@ fetch("garrafa.json").then((response) => {
                         <img src="../imagens/${produto.img}.png" />
                         <span id="nomeProduto">${produto.nome}.</span>
                     </a>
-                    <p>R$${produto.preco}</p>
-                    <p id="disponivel">${produto.disponivel}</p>
+                    
                 </li>
             `;
         });
@@ -215,9 +214,7 @@ fetch("dados.json").then((response) => {
                         <span>${produto.gelo}</span>
                     </div>
                 </div>
-                <div id="preco">
-                    <h1>R$${produto.preco}</h1>
-                </div>
+                
             </li>
             `
         })
@@ -256,9 +253,7 @@ fetch("dados.json").then((response) => {
                         <span>${produto.gelo}</span>
                     </div>
                 </div>
-                <div id="preco">
-                    <h1>R$${produto.preco}</h1>
-                </div>
+                
             </li>
             `
         })
@@ -296,9 +291,7 @@ fetch("dados.json").then((response) => {
                         <span>${produto.gelo}</span>
                     </div>
                 </div>
-                <div id="preco">
-                    <h1>R$${produto.preco}</h1>
-                </div>
+                
             </li>
             `
         })
